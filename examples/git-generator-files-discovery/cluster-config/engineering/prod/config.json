@@ -4,6 +4,6 @@
   "cluster": {
     "owner": "cluster-admin@company.com",
     "name": "engineering-prod",
-    "address": "http://1.2.3.4"
+    "address": "https://engineering-prod-dns-8a5xi2ef.hcp.eastus2.azmk8s.io:443"
   }
 }
