@@ -15,7 +15,7 @@ spec:
     spec:
       project: c4e8568d
       source:
-        repoURL: https://github.com/argoproj/applicationset.git
+        repoURL: https://github.com/jbla9028/applicationset.git
         targetRevision: HEAD
         path: "examples/git-generator-files-discovery/apps/guestbook"
       destination:
